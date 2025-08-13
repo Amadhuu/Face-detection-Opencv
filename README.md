@@ -1,6 +1,5 @@
 # Face-detection-Opencv
 Face detection in images using Python and OpenCV (Haar Cascades
-# Face Detection with OpenCV
 
 This project detects human faces in images using the Haar Cascade method from OpenCV.
 
